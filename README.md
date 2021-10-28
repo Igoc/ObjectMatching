@@ -41,7 +41,7 @@ Optional Arguments:
 ```
 
 &nbsp; Marking is used to crop objects from images, Checkout [marking example](https://github.com/Igoc/ObjectMatching/tree/master/Example/Marking). <br/>
-&nbsp; `<Object Center X> <Object Center Y> <Object Width> <Object Height>` is the normalized value for image size.
+&nbsp; `<Object Center X> <Object Center Y> <Object Width> <Object Height>` is the normalized value for image size. <br/><br/>
 
 ### Label
 
