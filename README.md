@@ -3,7 +3,7 @@
 ![badge_contributors](https://img.shields.io/github/contributors/Igoc/ObjectMatching?logoColor=red)
 ![badge_python](https://img.shields.io/badge/python-3-orange.svg)
 
-#### &nbsp; Object matching with python <br/><br/>
+#### &nbsp; Object matching with Python <br/><br/>
 
 ## Example
 
